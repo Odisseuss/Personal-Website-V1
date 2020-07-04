@@ -303,10 +303,10 @@ body {
   margin-top: 10%;
 }
 .wrapper.wrapper-work-showcase-1 ._6-col:first-of-type {
-  width: 30%;
+  width: 40%;
 }
 .wrapper.wrapper-work-showcase-1 ._6-col:last-of-type {
-  width: 70%;
+  width: 60%;
 }
 
 .wrapper.wrapper-work-showcase-1 ._6-col .wrapper-image {
@@ -647,12 +647,12 @@ div.card img {
   .wrapper.wrapper-work-showcase-1 ._6-col:first-of-type {
     width: 100%;
     align-self: center;
-    order: 1;
+    order: 2;
     margin-bottom: 50px;
   }
   .wrapper.wrapper-work-showcase-1 ._6-col:last-of-type {
     width: 100%;
-    order: 2;
+    order: 1;
     align-self: center;
   }
   .wrapper.wrapper-work-showcase-2 {
