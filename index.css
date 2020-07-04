@@ -409,7 +409,7 @@ div.card {
   display: -ms-flexbox;
   display: flex;
   max-width: 180px;
-  height: 320px;
+  height: 400px;
   margin: 1.5%;
   padding: 40px;
   -webkit-box-orient: vertical;
